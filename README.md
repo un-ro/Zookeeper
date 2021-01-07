@@ -1,7 +1,7 @@
 # Project: Zookeeper
 [Course by Jetbrains](https://hyperskill.org/projects/98?track=2)  
 
-'''
+```python
                                                ,w.
                                              ,YWMMw  ,M  ,
                         _.---.._   __..---._.'MMMMMw,wMWmW,
@@ -16,7 +16,7 @@ WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
           /  .'             /  (       .'  /     Ww._     `.  `"
          /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
         (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
-'''
+```
 
 ## About
 This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
